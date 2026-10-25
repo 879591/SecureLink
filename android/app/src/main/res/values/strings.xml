@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AegisRemote</string>
+    <string name="accessibility_service_description">AegisRemote Accessibility Service allows authorized controllers to send touch events and gestures to this device during an active authenticated session. This service never accesses passwords or personal information.</string>
+    <string name="notification_channel_name">Screen Sharing &amp; Remote Control</string>
+    <string name="notification_channel_desc">Active persistent indicator when screen sharing or remote management is active.</string>
+    <string name="screen_sharing_active_title">Screen Sharing Active</string>
+    <string name="screen_sharing_active_text">Your screen is currently being streamed to an authorized device.</string>
+    <string name="action_stop">Stop</string>
+    <string name="action_pause">Pause</string>
+    <string name="action_resume">Resume</string>
+</resources>

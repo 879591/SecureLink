@@ -1,0 +1,6 @@
+{
+  "name": "AegisRemote - Secure Android Remote Management System",
+  "description": "Production-ready Android remote management and WebRTC screen sharing platform with zero-trust pairing, encrypted session control, explicit consent, and security auditing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
